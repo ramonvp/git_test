@@ -85,3 +85,5 @@ git rebase --skip
 git push origin master
 ```
 
+Julia added Goodbye in file1.txt.
+
