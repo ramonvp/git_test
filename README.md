@@ -84,4 +84,8 @@ However, we cannot do right now a *git push* because we are in the middle of a r
 git rebase --skip
 git push origin master
 ```
+# Creating a pull request.
+I first forked the project from Julia (https://github.com/easyrobotics/RM_Class1.git) using the button from the GitHub web page.
+I then cloned the repo in computer, added a new text file and commit and pushed back to my repo.
+Then, I pressed the button "Create pull request" from my repository directly on GitHub page. This creates a pull request for Julia to accept my changes in his repository.
 
