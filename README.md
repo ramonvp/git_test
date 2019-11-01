@@ -89,7 +89,9 @@ I first forked the project from Julia (https://github.com/easyrobotics/RM_Class1
 I then cloned the repo in computer, added a new text file and commit and pushed back to my repo.
 Then, I pressed the button "Create pull request" from my repository directly on GitHub page. This creates a pull request for Julia to accept my changes in his repository.
 
-# Accepting a Pull request
+Julia added Goodbye in file1.txt.
+
+# Accepting a Pull Request
 To check existing pull requests,you go to the Pull Requests section of your repository. For example, I have this one from user Julia:
 ![Button to merge pull](media/merge_pull.png)
 
