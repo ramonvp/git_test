@@ -89,3 +89,5 @@ I first forked the project from Julia (https://github.com/easyrobotics/RM_Class1
 I then cloned the repo in computer, added a new text file and commit and pushed back to my repo.
 Then, I pressed the button "Create pull request" from my repository directly on GitHub page. This creates a pull request for Julia to accept my changes in his repository.
 
+Julia added Goodbye in file1.txt.
+
