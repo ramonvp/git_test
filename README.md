@@ -67,7 +67,7 @@ To check out the original branch and stop rebasing, run "git rebase --abort".
 ```
 Let's see what is the conflict about:
 ```
-cat file1.txt 
+cat file1.txt
 <<<<<<< 84724afbe4c512eca04184f2832a1625abbd3eaa
 ¡Hello Git!
 =======
@@ -89,3 +89,10 @@ I first forked the project from Julia (https://github.com/easyrobotics/RM_Class1
 I then cloned the repo in computer, added a new text file and commit and pushed back to my repo.
 Then, I pressed the button "Create pull request" from my repository directly on GitHub page. This creates a pull request for Julia to accept my changes in his repository.
 
+# Accepting a Pull request
+To check existing pull requests,you go to the Pull Requests section of your repository. For example, I have this one from user Julia:
+![Button to merge pull](media/merge_pull.png)
+
+You then accept the merge pushing the button "Merge pull request". A confirmation message appears and must accept to proceed. Once done, you get this message:
+
+![Merge pull accepted](media/pull_accepted.png)
